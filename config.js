@@ -1,3 +1,3 @@
 // ===== CONFIG (REPLACE WITH YOUR ACTUAL KEYS) =====
-const SUPABASE_URL = 'https://dlckscxlyxpxrvuryvnh.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRsY2tzY3hseXhweHJ2dXJ5dm5oIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwOTMzMDMsImV4cCI6MjA5MDY2OTMwM30.Waq3yVWWQpICZOU_T7j4maxlTeILB-qRmFZN6Z6L1F4';
+const SUPABASE_URL = 'https://xxpfocgthwrtfawsbdlp.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4cGZvY2d0aHdydGZhd3NiZGxwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUxMTk1ODAsImV4cCI6MjA5MDY5NTU4MH0.gXfLsbaxmn0ZLCKM1g6uJscKGyOuVkFy_fRK1tuWAiY';
